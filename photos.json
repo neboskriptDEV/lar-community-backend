@@ -1,6 +1,8 @@
 {
   "photoSeconds": 8,
   "photos": [
-    { "file": "photos/example.jpg", "by": "YourName" }
+    { "file": "photos/IMG4100.jpg", "by": "whatthefukc" };
+    { "file": "photos/nebomusculah.png", "by": "@neboskript" };
+    { "file": "photos/nwath.png", "by": "@wahtat" };
   ]
 }
