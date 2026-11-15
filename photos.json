@@ -1,0 +1,6 @@
+{
+  "photoSeconds": 8,
+  "photos": [
+    { "file": "photos/example.jpg", "by": "YourName" }
+  ]
+}
