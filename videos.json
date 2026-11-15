@@ -1,0 +1,11 @@
+{
+  "videos": [
+    {
+      "id": "gassy-gus",
+      "title": "gassy gus",
+      "url": "https://neboskriptdev.github.io/lar-community-backend/gassy-gus.mp4",
+      "thumb": "https://neboskriptdev.github.io/lar-community-backend/gassy-gus.jpg",
+      "seconds": 6.4
+    }
+  ]
+}
